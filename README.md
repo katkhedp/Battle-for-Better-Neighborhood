@@ -1,1 +1,7 @@
-# Week-5
+# Capstone Project
+
+## Exploratory Data Analaysis
+
+## Segmentation
+
+## Clustering
